@@ -26,12 +26,12 @@ The main goal of this assignment is to demonstrate understanding of **C++ templa
 ## 🧱 Project Structure  
 
 - Iterators
-  AscendingOrder.hpp
-  DescendingOrder.hpp
-  SideCrossOrder.hpp
-  ReverseOrder.hpp
-  MiddleOutOrder.hpp
-  Order.hpp
+  1. AscendingOrder.hpp
+  2. DescendingOrder.hpp
+  3. SideCrossOrder.hpp
+  4. ReverseOrder.hpp
+  5. MiddleOutOrder.hpp
+  6. Order.hpp
 
 - MyContainer.hpp # Main container class template
 - Main.cpp # Demo program
