@@ -25,7 +25,7 @@ The main goal of this assignment is to demonstrate understanding of **C++ templa
 
 ## 🧱 Project Structure  
 
--Iterators
+- Iterators
   AscendingOrder.hpp
   DescendingOrder.hpp
   SideCrossOrder.hpp
@@ -33,11 +33,11 @@ The main goal of this assignment is to demonstrate understanding of **C++ templa
   MiddleOutOrder.hpp
   Order.hpp
 
--MyContainer.hpp # Main container class template
--Main.cpp # Demo program
--tests.cpp # Unit tests (using doctest)
--makefile # Build automation
--README.md # Documentation (this file)
+- MyContainer.hpp # Main container class template
+- Main.cpp # Demo program
+- tests.cpp # Unit tests (using doctest)
+- makefile # Build automation
+- README.md # Documentation (this file)
 
 
 ---
