@@ -25,19 +25,19 @@ The main goal of this assignment is to demonstrate understanding of **C++ templa
 
 ## 🧱 Project Structure  
 
-├── Iterators/
-│ ├── AscendingOrder.hpp
-│ ├── DescendingOrder.hpp
-│ ├── SideCrossOrder.hpp
-│ ├── ReverseOrder.hpp
-│ ├── MiddleOutOrder.hpp
-│ └── Order.hpp
-│
-├── MyContainer.hpp # Main container class template
-├── Main.cpp # Demo program
-├── tests.cpp # Unit tests (using doctest)
-├── makefile # Build automation
-└── README.md # Documentation (this file)
+-├── Iterators/
+-│ ├── AscendingOrder.hpp
+-│ ├── DescendingOrder.hpp
+-│ ├── SideCrossOrder.hpp
+-│ ├── ReverseOrder.hpp
+-│ ├── MiddleOutOrder.hpp
+-│ └── Order.hpp
+-│
+-├── MyContainer.hpp # Main container class template
+-├── Main.cpp # Demo program
+-├── tests.cpp # Unit tests (using doctest)
+-├── makefile # Build automation
+-└── README.md # Documentation (this file)
 
 
 ---
